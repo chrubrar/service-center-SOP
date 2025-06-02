@@ -1,0 +1,7 @@
+INFO:     127.0.0.1:65352 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65352 - "GET /openapi.json HTTP/1.1" 200 OK
+Received question: What Should we do with BASS
+INFO:     127.0.0.1:49579 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49744 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49744 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49968 - "GET /chat-history HTTP/1.1" 200 OK

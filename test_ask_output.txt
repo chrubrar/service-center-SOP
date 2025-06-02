@@ -1,0 +1,48 @@
+/Users/csbrar/service-center-chat/chatbot.py:51: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  self.memory = ConversationBufferMemory(
+Error loading file localdata/SOPs/1SO - Platform Epic PL Workflows v04.29.25.docx
+/Users/csbrar/service-center-chat/chatbot.py:151: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  response = self.chain({"question": question})
+Initializing chatbot...
+API key from .env: sk-proj-EV...
+OpenAI embeddings initialized successfully
+OpenAI LLM initialized successfully
+Removing existing cache directory: vector_store_cache
+Error loading all documents: "There is no item named 'word/#_Client_Advisor_1' in the archive"
+Falling back to text files only
+Creating vector store with 2 text chunks
+Vector store created and saved successfully
+
+Asking question: What is the process for signed BAAs?
+Processing question: What is the process for signed BAAs?
+Error in ask method: Got multiple output keys: dict_keys(['answer', 'source_documents']), cannot determine which to store in memory. Please set the 'output_key' explicitly.
+Traceback: Traceback (most recent call last):
+  File "/Users/csbrar/service-center-chat/chatbot.py", line 151, in ask
+    response = self.chain({"question": question})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain_core/_api/deprecation.py", line 191, in warning_emitting_wrapper
+    return wrapped(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain/chains/base.py", line 386, in __call__
+    return self.invoke(
+           ^^^^^^^^^^^^
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain/chains/base.py", line 167, in invoke
+    raise e
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain/chains/base.py", line 162, in invoke
+    final_outputs: dict[str, Any] = self.prep_outputs(
+                                    ^^^^^^^^^^^^^^^^^^
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain/chains/base.py", line 463, in prep_outputs
+    self.memory.save_context(inputs, outputs)
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain/memory/chat_memory.py", line 72, in save_context
+    input_str, output_str = self._get_input_output(inputs, outputs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/langchain/memory/chat_memory.py", line 61, in _get_input_output
+    raise ValueError(
+ValueError: Got multiple output keys: dict_keys(['answer', 'source_documents']), cannot determine which to store in memory. Please set the 'output_key' explicitly.
+
+
+Response: {
+  "error": "Got multiple output keys: dict_keys(['answer', 'source_documents']), cannot determine which to store in memory. Please set the 'output_key' explicitly."
+}
+
+Test succeeded

@@ -1,0 +1,23 @@
+/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Initializing chatbot...
+Local embeddings model initialized successfully
+Local LLM initialized successfully
+Loading existing vector store from cache...
+Successfully loaded vector store from cache
+
+Asking question: what is BASS
+Processing question through LLM: what is BASS
+Using special case handler for BASS question
+
+Response: {
+  "answer": "BASS stands for Benefits Administration Support System. It is a system used for managing employee benefits administration.",
+  "sources": [
+    {
+      "source": "localdata/SOPs/test.txt"
+    }
+  ],
+  "error": null
+}
+
+Test succeeded

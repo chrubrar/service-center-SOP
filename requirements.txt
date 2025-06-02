@@ -1,0 +1,24 @@
+langchain==0.0.352
+langchain_community==0.0.10
+fastapi==0.109.0
+uvicorn==0.27.0
+python-dotenv==1.0.0
+faiss-cpu==1.7.4
+transformers==4.37.2
+torch==2.2.0
+sentence-transformers==2.3.1
+nltk==3.8.1
+python-magic==0.4.27
+unstructured[all-docs]>=0.10.30  # Full document support
+pytesseract==0.3.10
+Pillow==10.2.0  # Required for image processing
+python-docx==1.0.1  # For .docx files
+docx2txt==0.8  # For better .docx text extraction
+pdf2image==1.16.3  # For converting PDF pages to images
+PyMuPDF==1.23.8  # For better PDF handling (also known as fitz)
+opencv-python==4.9.0.80  # For image processing
+# Added for LayoutLMv3/LayoutXLM document understanding
+datasets>=2.14.0
+timm>=0.9.0
+# Note: detectron2 needs to be installed separately if needed:
+# pip install 'git+https://github.com/facebookresearch/detectron2.git'

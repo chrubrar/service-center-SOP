@@ -1,0 +1,86 @@
+/Users/csbrar/service-center-chat/venv/lib/python3.11/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Local embeddings model initialized successfully
+Local LLM initialized successfully
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Unrecognized image format in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx, header bytes: 3c737667207669657742
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: WMF in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Error processing image in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx: cannot find loader for this WMF file
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: JPEG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Unrecognized image format in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx, header bytes: 3c737667207669657742
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: JPEG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: WMF in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Error processing image in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx: cannot find loader for this WMF file
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Unrecognized image format in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx, header bytes: 3c737667207669657742
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Unrecognized image format in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx, header bytes: 3c737667207669657742
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Detected image format: WMF in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx
+Error processing image in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx: cannot find loader for this WMF file
+Detected image format: PNG in localdata/SOPs/Mid-Atlantic Commercial Lines Workflow v4.29.25.docx/Users/csbrar/anaconda3/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

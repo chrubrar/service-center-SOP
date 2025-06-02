@@ -1,0 +1,34 @@
+/Users/csbrar/service-center-chat/chatbot.py:51: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  self.memory = ConversationBufferMemory(
+Error loading file localdata/SOPs/1SO - Platform Epic PL Workflows v04.29.25.docx
+INFO:     Started server process [93872]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+/Users/csbrar/service-center-chat/chatbot.py:144: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  response = self.chain({"question": question})
+API key from .env: sk-proj-EV...
+OpenAI embeddings initialized successfully
+OpenAI LLM initialized successfully
+Removing existing cache directory: vector_store_cache
+Error loading all documents: "There is no item named 'word/#_Client_Advisor_1' in the archive"
+Falling back to text files only
+Creating vector store with 2 text chunks
+Vector store created and saved successfully
+INFO:     127.0.0.1:61688 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:61804 - "GET /chat-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62004 - "GET /chat-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62137 - "GET /chat-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62808 - "GET /ask HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:62808 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62810 - "GET /ask HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:64291 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:64539 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64539 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49812 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:53958 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55802 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [93872]
